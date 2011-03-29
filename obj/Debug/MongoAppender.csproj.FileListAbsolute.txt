@@ -1,0 +1,9 @@
+D:\Work\log4net-1.2.10\MongoAppender\bin\Debug\MongoAppender.dll
+D:\Work\log4net-1.2.10\MongoAppender\bin\Debug\MongoAppender.pdb
+D:\Work\log4net-1.2.10\MongoAppender\bin\Debug\log4net.dll
+D:\Work\log4net-1.2.10\MongoAppender\bin\Debug\MongoDB.Bson.dll
+D:\Work\log4net-1.2.10\MongoAppender\bin\Debug\MongoDB.Driver.dll
+D:\Work\log4net-1.2.10\MongoAppender\bin\Debug\log4net.xml
+D:\Work\log4net-1.2.10\MongoAppender\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\log4net-1.2.10\MongoAppender\obj\Debug\MongoAppender.dll
+D:\Work\log4net-1.2.10\MongoAppender\obj\Debug\MongoAppender.pdb
